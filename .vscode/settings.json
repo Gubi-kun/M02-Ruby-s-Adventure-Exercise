@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Ruby's Adventure NC.sln"
+    "dotnet.defaultSolution": "M02-Ruby-s-Adventure-Exercise.sln"
 }
